@@ -11,4 +11,20 @@ describe('calculator', function () {
     assert.equal(true, true)
   })
 
+  // it('it can add two numbers', function(){
+  //
+  // })
+
+  // it('it can subtract two numbers', function(){
+  //
+  // })
+
+  // it('it can multiply two numbers', function(){
+  //
+  // })
+
+  // it('it can divide two numbers', function(){
+  // 
+  // })
+
 });
