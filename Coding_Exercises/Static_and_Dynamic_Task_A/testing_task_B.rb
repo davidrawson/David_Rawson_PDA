@@ -34,3 +34,5 @@ class CardGame
       return "You have a total of " + total
     end
   end
+
+end
